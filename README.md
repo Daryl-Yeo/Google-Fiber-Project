@@ -34,8 +34,19 @@ FROM `bi-project-bigquery.fibre.market_3`
 
 As the data had been previously cleaned, the target table is created and ready. This step also represents the Extract phase of the ETL pipeline. 
 
-### Data Visualization
+## Data Visualization
 
 ![Google Fiber Dashboard](google fiber dashboard.png)
 
-You may access the dashoard [here](https://public.tableau.com/views/GoogleFiberDashboard_17271493658170/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+You may access the dashoard [here](https://public.tableau.com/views/GoogleFiberDashboard_17271493658170/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+This dashboard allows for effective monitoring and addresses the stakeholder needs:
+
+* Help them understand how often customers are calling customer support after their first inquiry.
+* Provide insights into the types of customer issues that seem to generate more repeat calls.
+* Explore repeat caller trends in the three different market cities.
+* Design charts so that stakeholders can view trends by different timeframes.
+
+
+If you've read till here, I thank you for your time. And if you would like to join me on my Data Analytics journey, feel free to check out my other projects!  
+
