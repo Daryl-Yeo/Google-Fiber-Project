@@ -37,3 +37,5 @@ As the data had been previously cleaned, the target table is created and ready. 
 ### Data Visualization
 
 ![Google Fiber Dashboard](google fiber dashboard.png)
+
+You may access the dashoard [here](https://public.tableau.com/views/GoogleFiberDashboard_17271493658170/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
