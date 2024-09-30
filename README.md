@@ -47,6 +47,12 @@ This dashboard allows for effective monitoring and addresses the stakeholder nee
 * Explore repeat caller trends in the three different market cities.
 * Design charts so that stakeholders can view trends by different timeframes.
 
+### Dashboard Summary
 
-If you've read till here, I thank you for your time. And if you would like to join me on my Data Analytics journey, feel free to check out my other projects!  
+* The number of first calls & repeated calls are highlighted at the top left of the dashboard to provide an overall understanding of the first:repeated ratio by month & market.  
+* Below that, a table-formatted breakdown of the first calls indicate top reasons for the first calls (by market).
+* The first call breakdown by day highlights that most complains come in on Monday, with Sunday generally a slow day.
+* The remaining charts examine the repeated calls by timeframe, purpose of inqury, and by market.
+
+*If you've read till here, I thank you for your time. And if you would like to join me on my Data Analytics journey, feel free to check out my other projects!*  
 
