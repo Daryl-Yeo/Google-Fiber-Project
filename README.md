@@ -36,3 +36,4 @@ As the data had been previously cleaned, the target table is created and ready. 
 
 ### Data Visualization
 
+![Google Fiber Dashboard](google fiber dashboard.png)
